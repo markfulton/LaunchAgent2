@@ -1,0 +1,40 @@
+# Landing Page Copy
+
+## Hero
+- **Headline:** Generate Instagram Trial Reel Content in Seconds
+- **Subhead:** Trial Reel Machine delivers hooks, captions, hashtags, and five smart variations so you can test multiple Trial Reels before publishing to your full audience.[^source]
+- **Primary CTA:** Start Now ($14.95/mo)
+- **Secondary CTA:** See Examples
+- **Trust signals:** 100% secure and private · Instant setup · Cancel anytime
+
+## Social Proof Snapshot
+- "Join thousands of creators already using the trial reel strategy to grow their audience and drive sales."[^source]
+- Mini metrics: 200B+ Reels watched daily across Instagram & Facebook (source: Influencer Marketing Hub).[^source]
+
+## Feature Highlights Grid
+1. **AI-Powered Generation** – Hooks, descriptions, hashtags, and creative direction tailored to Instagram’s algorithm.[^source]
+2. **Five Smart Variations** – Instantly test multiple angles and choose winners with data-backed insights.[^source]
+3. **Live Instagram-Style Preview** – See exactly how your reel will appear and copy any field in one click.[^source]
+4. **Audience Targeting Controls** – Customize tone, niche, and messaging for your brand and followers.[^source]
+5. **Viral Video Library** – Download ready-to-use vertical clips while AI video generation is in the works.[^source]
+6. **Generation History & Favorites** – Save top-performing concepts and build repeatable trial reel playbooks.[^source]
+
+## How It Works
+1. **Describe Your Idea** – Share your reel topic, audience, tone, and niche via the guided prompt form.[^source]
+2. **AI Creates Your Content** – Receive hooks, captions, hashtags, and five unique variations in seconds.[^source]
+3. **Copy & Create** – Preview, copy, and produce your trial reel; auto-publish winners after reviewing insights.[^source]
+
+## Benefits Section
+- **Risk-Free Testing:** Keep low-performing tests off your grid while finding breakout concepts.[^source]
+- **Massive Discovery Potential:** Reach non-followers through Instagram’s priority placement for Trial Reels.[^source]
+- **Data-Driven Growth:** Base creative decisions on the 24-hour insight dashboard and auto-publish settings.[^source]
+
+## Pricing Banner
+- **Plan Name:** Unlimited Creator Plan
+- **Price:** $14.95 per month (or $144 annually – save 20%)
+- **Includes:** Unlimited reel generations, viral video reel downloads, smart variations, AI hooks/descriptions, strategic hashtags, live preview, one-click copy, history, favorites.[^source]
+
+## Closing CTA
+"Ready to create your first viral Trial Reel? Start now for $14.95/month and turn new viewers into loyal fans."[^source]
+
+[^source]: [Trial Reel Machine homepage](https://trialreelmachine.com/)
