@@ -1,0 +1,20 @@
+[
+  {"id": "01", "slug": "icp_and_positioning", "title": "ICP & Positioning", "file": "01_icp_and_positioning.md"},
+  {"id": "02", "slug": "landing_page_copy", "title": "Landing Page Copy", "file": "02_landing_page_copy.md"},
+  {"id": "03", "slug": "value_prop_matrix", "title": "Value Proposition Matrix", "file": "03_value_prop_matrix.md"},
+  {"id": "04", "slug": "features_benefits", "title": "Features & Benefits", "file": "04_features_benefits.md"},
+  {"id": "05", "slug": "pricing_breakdown", "title": "Pricing Breakdown", "file": "05_pricing_breakdown.md"},
+  {"id": "06", "slug": "product_one_pager", "title": "Product One-Pager", "file": "06_product_one_pager.md"},
+  {"id": "07", "slug": "email_sequence", "title": "3-Email Launch Nurture Sequence", "file": "07_email_sequence.md"},
+  {"id": "08", "slug": "sales_outreach_script", "title": "Sales Outreach Script", "file": "08_sales_outreach_script.md"},
+  {"id": "09", "slug": "linkedin_posts", "title": "LinkedIn Post Concepts", "file": "09_linkedin_posts.md"},
+  {"id": "10", "slug": "twitter_threads", "title": "X (Twitter) Thread", "file": "10_twitter_threads.md"},
+  {"id": "11", "slug": "launch_blog_post", "title": "Launch Blog Post", "file": "11_launch_blog_post.md"},
+  {"id": "12", "slug": "press_release", "title": "Press Release", "file": "12_press_release.md"},
+  {"id": "13", "slug": "product_hunt_post", "title": "Product Hunt Launch Copy", "file": "13_product_hunt_post.md"},
+  {"id": "14", "slug": "reddit_launch_post", "title": "Reddit Launch Post", "file": "14_reddit_launch_post.md"},
+  {"id": "15", "slug": "faq", "title": "FAQ", "file": "15_faq.md"},
+  {"id": "16", "slug": "video_script", "title": "60-Second Launch Video Script", "file": "16_video_script.md"},
+  {"id": "17", "slug": "community_engagement_plan", "title": "Community Engagement Plan", "file": "17_community_engagement_plan.md"},
+  {"id": "18", "slug": "ad_copy", "title": "Paid Ad Copy", "file": "18_ad_copy.md"}
+]

@@ -1,0 +1,55 @@
+{
+  "product": {
+    "name": "Trial Reel Machine",
+    "url": "https://trialreelmachine.com/",
+    "stage": "Recently launched",
+    "pricing": {
+      "monthly": 14.95,
+      "currency": "USD",
+      "plan_name": "Unlimited Creator Plan",
+      "annual": 144.0,
+      "notes": "Unlimited reel generations, access to viral video library, AI-powered hooks/descriptions, strategic hashtags, live preview, one-click copy, history, favorites."
+    },
+    "cta": "Start Now",
+    "tagline": "Generate Instagram Trial Reel Content in Seconds"
+  },
+  "icp": {
+    "primary": "Instagram influencers and creators with established audiences who need to scale content output",
+    "secondary": [
+      "Coaches and course creators leveraging Instagram for growth",
+      "Brands with social media managers focused on Instagram reels"
+    ],
+    "pain_points": [
+      "Need for fast, high-performing trial reels without burning time",
+      "Uncertainty about which hooks and angles will resonate",
+      "Desire to maintain profile aesthetics while testing new ideas"
+    ],
+    "geography": "Global (English-speaking focus)"
+  },
+  "positioning": {
+    "category": "AI-powered Instagram Trial Reel content generator",
+    "primary_benefit": "Rapidly ship and test multiple trial reels to grow followers and revenue",
+    "differentiators": [
+      "Only platform dedicated specifically to Instagram Trial Reels",
+      "Generates five smart variations per idea with strategic hashtags",
+      "Includes live Instagram-style previews and viral video library"
+    ]
+  },
+  "competitors": [
+    {
+      "name": "Generic AI copy tools",
+      "differentiation": "Trial Reel Machine focuses on Instagram Trial Reels with live previews and video assets while general copy tools lack reel-specific workflows."
+    }
+  ],
+  "features": [
+    "AI-powered hook, description, hashtag generation",
+    "Five smart variations per prompt",
+    "Live Instagram-style preview with one-click copy",
+    "Audience targeting inputs and creative direction guidance",
+    "Viral reel video library downloads",
+    "Generation history and favorites tracking",
+    "Upcoming AI video generation"
+  ],
+  "voice": "Concise, personable, confident without being salesy",
+  "assumptions": []
+}
